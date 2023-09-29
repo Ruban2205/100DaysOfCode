@@ -27,3 +27,5 @@ if userInput >= 1:
     for i in range(1, userInput+1): 
         factorial = factorial * i
 print("Factorial of the given number is: ", factorial)
+
+
