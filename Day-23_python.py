@@ -20,7 +20,6 @@ if __name__ == "__main__":
 # --------------------------------------------------------- #
 
 # Calculate the dot product of two vectors represented as lists.
-
 print("\nRuban Gino Singh - Day23 of #100DaysOfCode\n")
 
 print("Python program to calcualte the dot product of two vectors represented as lists.\n")
