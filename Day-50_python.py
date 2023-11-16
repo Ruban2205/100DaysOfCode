@@ -1,4 +1,7 @@
 # Implement Substitution Cipher. (Vernam Cipher)
+print("Ruban Gino Singh - Day 51 of #100DaysOfCode\n")
+
+print("Python program to implement the Substitution Cipher\n")
 
 def vernam_encrypt(plaintext, key):
     ciphertext = ""
