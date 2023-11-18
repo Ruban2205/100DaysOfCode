@@ -1,3 +1,8 @@
+# Implement the columnar cipher 
+print("\nRuban Gino Singh - Day 53 of #100DaysOfCode\n")
+
+print("Python program to implement the Column Transposition Cipher\n")
+
 def encrypt(message, key):
     message = message.replace(" ", "")
     
