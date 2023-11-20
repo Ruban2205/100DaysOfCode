@@ -1,5 +1,4 @@
 # Implement the Affine Cipher 
-
 print("\nRuban Gino Singh - Day 55 of #100DaysOfCode\n")
 
 print("Python program to implement the Affine Cipher\n")
