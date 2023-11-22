@@ -3,6 +3,8 @@ print("\nRuban Gino Singh - Day 57 of #100DaysOfCode\n")
 
 print("Python program to Implement a basic Natural Language Processing (NLP)\n")
 
+# pip install nltk
+
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk import pos_tag, ne_chunk
