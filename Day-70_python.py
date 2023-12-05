@@ -3,6 +3,7 @@ print("\nRuban Gino Singh - Day 70 of #100DaysOfCode\n")
 
 print("Python program to Implement a Basic image processing program.\n")
 
+
 from PIL import Image
 
 def convert_to_grayscale(input_path, output_path):
