@@ -3,7 +3,6 @@ print("\nRuban Gino Singh - Day 77 of #100DaysOfCode\n")
 
 print("Python program to implement Bucket Sort Algorithm.\n")
 
-
 def bucket_sort(arr):
     max_val = max(arr)
     min_val = min(arr)
