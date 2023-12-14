@@ -21,7 +21,7 @@ print("Sorted array:", my_list)
 # Implement Insertion sort Algorithm 
 print("\nRuban Gino Singh - Day 79 of #100DaysOfCode\n")
 
-print("Python program to implement Bubble Sort Algorithm.\n")
+print("Python program to implement Insertion Sort Algorithm.\n")
 
 def insertion_sort(arr):
     for i in range(1, len(arr)):
@@ -45,7 +45,7 @@ print("Sorted array:", my_list)
 # Implement Merge Sort Algorithm 
 print("\nRuban Gino Singh - Day 79 of #100DaysOfCode\n")
 
-print("Python program to implement Bubble Sort Algorithm.\n")
+print("Python program to implement Merge Sort Algorithm.\n")
 
 def merge_sort(arr):
     if len(arr) > 1:
@@ -87,7 +87,7 @@ print("Sorted array:", my_list)
 # Implement Quick Sort Algorithm 
 print("\nRuban Gino Singh - Day 79 of #100DaysOfCode\n")
 
-print("Python program to implement Bubble Sort Algorithm.\n")
+print("Python program to implement Quick Sort Algorithm.\n")
 
 def quick_sort(arr):
     if len(arr) <= 1:
