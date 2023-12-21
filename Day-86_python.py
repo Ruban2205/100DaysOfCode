@@ -39,5 +39,4 @@ print("Original array:", arr)
 pancake_sort(arr)
 print("Sorted array:", arr)
 
-
 # --------------------------------------------------------- #
