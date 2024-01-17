@@ -6,7 +6,7 @@ Welcome to my #100DaysOfCode repository! This project is a collection of Python 
 
 The repository is organized as follows; 
 
-- **Days 1-100:
+- **Days 1-100:**
 - Each Day is listed from, `Day1` to `Day100`.
 - Each files output is added in the [assets](/assets) folder.
 
